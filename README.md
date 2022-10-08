@@ -66,6 +66,12 @@ yarn create strapi-app my-project --quickstart
 npx create-strapi-app my-project --quickstart
 ```
 
+-  To run the Strapi project.)
+
+```bash
+npm run develop
+```
+
 This command generates a brand new project with the default features (authentication, permissions, content management, content type builder & file upload). The **Quickstart** command installs Strapi using a **SQLite** database which is used for prototyping in development.
 
 Enjoy 🎉
