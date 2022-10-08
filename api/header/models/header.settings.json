@@ -1,0 +1,24 @@
+{
+  "kind": "singleType",
+  "collectionName": "headers",
+  "info": {
+    "name": "header"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "greeting": {
+      "type": "string"
+    },
+    "worktime": {
+      "type": "string"
+    },
+    "hotline": {
+      "type": "string"
+    }
+  }
+}

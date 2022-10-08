@@ -1,0 +1,51 @@
+{
+  "kind": "collectionType",
+  "collectionName": "reasons",
+  "info": {
+    "name": "reason"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title1": {
+      "type": "string"
+    },
+    "content1": {
+      "type": "text"
+    },
+    "title2": {
+      "type": "string"
+    },
+    "content2": {
+      "type": "text"
+    },
+    "title3": {
+      "type": "string"
+    },
+    "content3": {
+      "type": "text"
+    },
+    "title4": {
+      "type": "string"
+    },
+    "content4": {
+      "type": "text"
+    },
+    "title5": {
+      "type": "string"
+    },
+    "content5": {
+      "type": "text"
+    },
+    "title6": {
+      "type": "string"
+    },
+    "content6": {
+      "type": "text"
+    }
+  }
+}
